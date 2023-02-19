@@ -1,0 +1,153 @@
+.navdiv{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 37px;
+  margin-left: 30px;
+  
+}
+.navul{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 444px;
+  margin-right: 224px;
+  
+}
+nav li a{
+  color: #3D37F1;
+}
+
+/* -----------Main--------- */
+.maincont{
+  width: 1380px;
+  height: 1000px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nametext{
+  width: 616px;
+  margin-left: 130px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h2{  
+  font-size: 78px;
+  margin-top: 30px;
+  margin-bottom: 55px;
+}
+.wave{
+  width: 264px;
+  height: 67px;
+  border-radius: 38px;
+  background-color: #3D37F1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 35px;
+}
+/* როგორ დავაშორო ფოტო და wave me ერთმანეთს? margin-ით არ დაშორდა */
+
+.container{
+  width: 100%;
+  margin: 0 auto;
+  background-color: #F8F8F8;
+}
+.text{
+  width: 710px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+h3{
+  font-size: 40px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+ .row{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  height: 960px;
+  align-content: space-between;
+
+ }
+ .box{
+  width: 370px;
+  height: 450px;
+  background-color: #FBBA77;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+ }
+
+ h4{
+  text-align: center;
+  margin-top: 64px;
+ }
+ .boxtext{
+  width: 329px;
+  text-align: center;
+  margin-top: 16px;
+ }
+ .wre{
+  width: 131px;
+  height: 23px;
+  background-color: #FFFFFF;
+  border-radius: 23px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 28px;
+ }
+ .box2{
+  background-color: #41EAE3;
+ }
+ .wre2{
+  background-color: #41EAE3;
+  border-style: solid;
+  border-color: #FFFFFF;
+  border-width: 2px;
+ }
+ .box3{
+  background-color: #69529F;
+ }
+ .wre3{
+  background-color: #69529F;
+  border-style: solid;
+  border-color: #FFFFFF;
+  border-width: 2px;
+ }
+ .box4{
+background-color: #4386D2;
+ }
+ .wre4{
+  background-color: #4386D2;
+  border-style: solid;
+  border-color: #FFFFFF;
+  border-width: 2px;
+ }
+ .box5{
+background-color: #A5A2F6;
+ }
+ .wre5{
+  background-color: #A5A2F6;
+  border-style: solid;
+  border-color: #FFFFFF;
+  border-width: 2px;
+ }
+ .box6{
+  background-color: #FF8088;
+ }
+ .wre6{
+  background-color: #FF8088;
+  border-style: solid;
+  border-color: #FFFFFF;
+  border-width: 2px;
+ }
